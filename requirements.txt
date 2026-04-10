@@ -1,0 +1,8 @@
+streamlit
+groq
+deep-translator
+gtts
+pytesseract
+Pillow
+requests
+python-dotenv
